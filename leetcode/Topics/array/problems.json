@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-29T09:20:15.956Z",
+  "updatedAt": "2026-07-29T09:20:30.581Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,6 +23,26 @@
           "path": "leetcode/0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "bd70336522a0b9559e80d6ef9c0f1d9ffb1bfc0e",
           "lastSyncedAt": "2026-07-29T09:20:15.956Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "leetcode/0169-majority-element/0169-majority-element.cpp",
+          "sha": "372bc49a52bda64941c475d2c7509952b86495e2",
+          "lastSyncedAt": "2026-07-29T09:20:30.581Z"
         }
       ]
     }
